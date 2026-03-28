@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "LOVE BRACE",
+  "base_artist": "Tomomi Kahala",
+  "createdAt": "2026-03-28T12:15:46.742596Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "LOVE BRACE",
+      "artist": "華原朋美",
+      "has_synced": true,
+      "path": "select/01_LOVE_BRACE_華原朋美.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "LOVE BRACE",
+      "artist": "華原朋美",
+      "has_synced": false,
+      "path": "select/02_LOVE_BRACE_華原朋美.txt"
+    }
+  ]
+}
